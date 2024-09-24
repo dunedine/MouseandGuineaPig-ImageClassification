@@ -1,4 +1,4 @@
-# MouseandGuineaPig_-ImageClassification
+
 🐭 쥐와 기니피그 분류 모델 🐹 
 (2023.04.03 - 2023.04.05)
 
@@ -30,5 +30,6 @@
 ## 프로젝트 결과
 - 학습된 모델은 8 에포크 만에 100% 정확도를 달성
 - 테스트 이미지에서도 일관된 높은 성능을 보였으며, 모델이 안정적으로 쥐와 기니피그를 구분
+- <img width="350" alt="mouseangui_1" src="https://github.com/user-attachments/assets/8b4d4f07-acff-42a5-8ced-79439cf25b3d"> <img width="258" alt="mouseangui_2" src="https://github.com/user-attachments/assets/ccbe8425-15c7-401a-82d7-4f357b65c2f1">
 <br>
 
